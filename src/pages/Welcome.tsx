@@ -84,10 +84,10 @@ const Welcome: React.FC = () => {
           
           <div className="relative z-10">
             <h2 className="text-xl font-bold text-primary-foreground mb-2">
-              Your Complete Health Platform
+              From Records to Care, Seamlessly.
             </h2>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
-              Unified health records, instant access to care, affordable medicines, and seamless connectivity between patients, doctors, and pharmacies.
+              A unified platform that enables secure access, management, and consent-based sharing of health records, while supporting coordinated interactions with doctors and pharmacies when needed.
             </p>
             <div className="flex gap-2 mt-4">
               <span className="px-3 py-1 bg-primary-foreground/20 rounded-full text-xs text-primary-foreground font-medium">
